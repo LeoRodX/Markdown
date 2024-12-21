@@ -8,7 +8,7 @@
 + nnnnnU+0020nnnnn
 
 - foo
-  - foo
-    - foo 
+ - foo
+  - foo 
 - foo
 →bar
