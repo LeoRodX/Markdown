@@ -6,15 +6,4 @@
 + Пробел - & n b s p ;
 + Пробел - "    "
   
-> &nbsp;   
-+ Заголовок "#"
-+ nnnnnU+0020nnnnn
-
-- foo
- - foo
-  - foo 
-- foo
-        bar
-
-        foo
-    bar
+> &nbsp; 
